@@ -23,3 +23,5 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # vue_sample_parts
+
+[http://localhost:8080/](http://localhost:8080/)
